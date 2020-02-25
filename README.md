@@ -112,3 +112,11 @@ Documents (OSM elements, observations, etc) have a common format:
   }
 ```
 
+
+## ToDos
+
+- [ ] Disable changeset checks on node addition
+- [ ] Create version of obj2osm(https://github.com/digidem/obj2osm) that generates OSM JSON
+- [ ] Create version of osm2obj(https://github.com/digidem/osm2obj) that accepts OSM JSON
+- [ ] Add support for SDS parameters without using OSM tags
+
