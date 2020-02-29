@@ -112,7 +112,6 @@ Documents (OSM elements, observations, etc) have a common format:
 ## ToDos
 
 - [x] Remove changeset validation, custom [sds-p2p-server](https://github.com/OpenArCloud/sds-p2p-server)
-- [ ] Create version of [obj2osm](https://github.com/digidem/obj2osm) that generates OSM JSON
-- [ ] Create version of [osm2obj](https://github.com/digidem/osm2obj) that accepts OSM JSON
+- [ ] Change API from OSM XML to OSM JSON 
 - [ ] Add support for SDS parameters without using OSM tags
 
