@@ -3,6 +3,8 @@
 > OSCP spatial search/discovery service (SDS) directly using peer-to-peer OpenStreetMap (OSM).
 
 
+[DEPRECATION NOTICE] This work is moving to [oscp-spatial-discovery-core](https://github.com/OpenArCloud/oscp-spatial-discovery-core) and the respective service API projects, [oscp-spatial-service-discovery](https://github.com/OpenArCloud/oscp-spatial-service-discovery) and [oscp-spatial-content-discovery](https://github.com/OpenArCloud/oscp-spatial-content-discovery).
+
 ## Purpose
 
 A quick proof-of-concept of OSCP spatial search/discovery (SDS) using [osm-p2p-server](https://github.com/digidem/osm-p2p-server), the underlying [kappa-osm](https://github.com/digidem/kappa-osm) database, and real-time sync via [hyperswarm](https://github.com/hyperswarm/hyperswarm) peer connectivity. The OSM data model and queries of course differ from SDS requirements, but this demonstates the high-level concept of adding nodes with geo coordinates, syncing, and performing bounding box queries. SDS specific elements are temporarily loaded into OSM tags.
