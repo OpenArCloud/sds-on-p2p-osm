@@ -3,7 +3,7 @@
 > OSCP spatial search/discovery service (SDS) directly using peer-to-peer OpenStreetMap (OSM).
 
 
-[DEPRECATION NOTICE] This work is moving to [oscp-spatial-discovery-core](https://github.com/OpenArCloud/oscp-spatial-discovery-core) and the respective service API projects, [oscp-spatial-service-discovery](https://github.com/OpenArCloud/oscp-spatial-service-discovery) and [oscp-spatial-content-discovery](https://github.com/OpenArCloud/oscp-spatial-content-discovery).
+[DEPRECATION NOTICE] This early prototype work has been replaced by [oscp-spatial-service-discovery](https://github.com/OpenArCloud/oscp-spatial-service-discovery) and [oscp-spatial-content-discovery](https://github.com/OpenArCloud/oscp-spatial-content-discovery).
 
 ## Purpose
 
